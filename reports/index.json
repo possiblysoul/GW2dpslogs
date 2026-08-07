@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260807-193835-15pb",
+      "title": "Pandemonium Brax",
+      "commanders": [
+        "Pandemonium Brax"
+      ],
+      "dateStart": "2026-08-07T09:38:35.000Z",
+      "dateEnd": "2026-08-07T10:46:53.000Z",
+      "dateLabel": "8/7/2026, 7:38:35 PM - 8/7/2026, 8:46:53 PM",
+      "url": "https://soulswiper.github.io/GW2dpslogs/?report=20260807-193835-15pb",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 31,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260707-184558-pxgx",
       "title": "Brax Play Havoc",
       "commanders": [
