@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260808-163639-ycla",
+      "title": "Gnogersson",
+      "commanders": [
+        "Gnogersson"
+      ],
+      "guild": {
+        "id": "D38587FB-CB1A-EF11-81A9-8FB5CFBE7766",
+        "name": "Dire Fang Vanguard",
+        "tag": "DFVG"
+      },
+      "dateStart": "2026-08-08T06:36:39.000Z",
+      "dateEnd": "2026-08-08T06:41:57.000Z",
+      "dateLabel": "8/8/2026, 4:36:39 PM - 8/8/2026, 4:41:57 PM",
+      "url": "https://possiblysoul.github.io/GW2dpslogs/?report=20260808-163639-ycla",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260808-112702-wxr8",
       "title": "Xairknight",
       "commanders": [
