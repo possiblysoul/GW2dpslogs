@@ -4,6 +4,35 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260815-174656-rkjx",
+      "title": "Brax The Righteous, Holy Ita",
+      "commanders": [
+        "Brax The Righteous",
+        "Holy Ita"
+      ],
+      "guild": {
+        "id": "40BDB0DA-6BEA-E311-A8E7-AC162DAE5A05",
+        "name": "Resolute Intent",
+        "tag": "RI"
+      },
+      "dateStart": "2026-08-15T07:46:56.000Z",
+      "dateEnd": "2026-08-15T08:17:34.000Z",
+      "dateLabel": "8/15/2026, 5:46:56 PM - 8/15/2026, 6:17:34 PM",
+      "url": "https://possiblysoul.github.io/GW2dpslogs/?report=20260815-174656-rkjx",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 39,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 8
+      }
+    },
+    {
       "id": "20260810-195346-o6vw",
       "title": "Unknown Commander",
       "commanders": [],
