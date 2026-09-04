@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260904-201413-wfew",
+      "title": "Squirel Halucinates",
+      "commanders": [
+        "Squirel Halucinates"
+      ],
+      "guild": {
+        "id": "76D6654A-806A-4E77-AB4D-4F7661024D79",
+        "name": "Standard Of Heroes",
+        "tag": "SoX"
+      },
+      "dateStart": "2026-09-04T10:14:13.000Z",
+      "dateEnd": "2026-09-04T12:05:14.116Z",
+      "dateLabel": "9/4/2026, 8:14:13 PM - 9/4/2026, 10:05:14 PM",
+      "url": "https://possiblysoul.github.io/GW2dpslogs/?report=20260904-201413-wfew",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 40,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 11
+      }
+    },
+    {
       "id": "20260831-185917-xlf2",
       "title": "Unknown Commander",
       "commanders": [],
