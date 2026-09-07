@@ -4,6 +4,37 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260907-191132-dkcn",
+      "title": "Unknown Commander",
+      "commanders": [],
+      "guild": {
+        "id": "40BDB0DA-6BEA-E311-A8E7-AC162DAE5A05",
+        "name": "Resolute Intent",
+        "tag": "RI"
+      },
+      "dateStart": "2026-09-07T09:11:32.000Z",
+      "dateEnd": "2026-09-07T09:28:27.294Z",
+      "dateLabel": "9/7/2026, 7:11:32 PM - 9/7/2026, 7:28:27 PM",
+      "url": "https://possiblysoul.github.io/GW2dpslogs/?report=20260907-191132-dkcn",
+      "summary": {
+        "borderlandsPct": 0.02040816326530612,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 48,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 7
+      }
+    },
+    {
       "id": "20260904-201413-wfew",
       "title": "Squirel Halucinates",
       "commanders": [
