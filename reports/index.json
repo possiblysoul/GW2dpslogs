@@ -2,7 +2,36 @@
   "colorPalette": "crimson-red",
   "glassSurfaces": true,
   "glassmorphic": true,
+  "axiDesign": false,
   "entries": [
+    {
+      "id": "20261002-180103-5gvk",
+      "title": "Shy The Symbolic",
+      "commanders": [
+        "Shy The Symbolic"
+      ],
+      "guild": {
+        "id": "40BDB0DA-6BEA-E311-A8E7-AC162DAE5A05",
+        "name": "Resolute Intent",
+        "tag": "RI"
+      },
+      "dateStart": "2026-10-02T08:01:03.000Z",
+      "dateEnd": "2026-10-02T08:32:32.144Z",
+      "dateLabel": "10/2/2026, 6:01:03 PM - 10/2/2026, 6:32:32 PM",
+      "url": "https://possiblysoul.github.io/GW2dpslogs/?report=20261002-180103-5gvk",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 6
+      }
+    },
     {
       "id": "20260907-191132-dkcn",
       "title": "Unknown Commander",
